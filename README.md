@@ -1,26 +1,80 @@
-# Jalen Adams
+\# Python Refresher – Mini Sales Analysis Project
 
-Aspiring Data Analyst focused on turning raw data into clear, actionable insights.
 
-## 🔧 Tools & Skills
-- Python (Pandas, NumPy)
-- SQL (SQLite, PostgreSQL)
-- Data Visualization (Matplotlib, Seaborn)
-- Excel
-- Data Cleaning & Analysis
 
-## 📊 Projects
-- **Sales Performance Analysis**
-  - Analyzed retail sales data to identify top-performing categories and loss drivers
-  - Built visual reports to support data-driven decisions
+This mini project demonstrates fundamental data analysis skills using Python and Pandas.
 
-- **Customer Behavior Analysis**
-  - Explored purchasing patterns and customer segments
-  - Delivered actionable insights through charts and written summaries
 
-> More projects coming weekly as I continue building my portfolio.
 
-## 🎯 Currently Working On
-- Data cleaning & exploratory data analysis
-- SQL-driven analytics projects
-- Building an end-to-end data analysis portfolio
+\## 🚀 What This Project Does
+
+
+
+\- Reads a CSV file (`practice.csv`)
+
+\- Filters and groups sales data
+
+\- Calculates totals, averages \& bonuses
+
+\- Creates two bar charts
+
+\- Exports processed data to a new CSV
+
+\- Prints simple insights in the console
+
+
+
+\## 📂 Files Included
+
+
+
+| File | Purpose |
+
+|------|---------|
+
+| `practice.csv` | Sample data |
+
+| `mini\_project\_day3.py` | Python analysis script |
+
+| `day3\_processed\_data.csv` | Exported processed data |
+
+| `day3\_total\_sales\_chart.png` | Visual output |
+
+| `day3\_total\_sales\_highlight.png` | Highlighted chart |
+
+| `INSIGHTS.md` | Written insights |
+
+
+
+\## 📊 Skills Demonstrated
+
+
+
+\- Python fundamentals
+
+\- Pandas data manipulation
+
+\- CSV file handling
+
+\- Data filtering and grouping
+
+\- Data visualization with Matplotlib
+
+\- Basic business insight generation
+
+
+
+\## 🛠 How to Run
+
+
+
+1\. Ensure Python is installed  
+
+2\. Install Pandas \& Matplotlib:  
+
+&nbsp;  ```bash
+
+&nbsp;  pip install pandas matplotlib
+
+
+
